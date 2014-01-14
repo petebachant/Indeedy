@@ -12,4 +12,5 @@ From a command line, run
 
 Usage
 =====
-See the bottom of the module or the included IPython notebook (`notebook.ipynb`) for an example.
+See the bottom of the module or the included [IPython notebook](http://nbviewer.ipython.org/github/petebachant/Indeedy/blob/master/notebook.ipynb?create=1)
+(`notebook.ipynb`) for an example.
