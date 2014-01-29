@@ -8,11 +8,10 @@ setup(
     version='0.0.1',
     author='Pete Bachant',
     author_email='petebachant@gmail.com',
-    packages=['indeedy'],
+    modules=['indeedy'],
     scripts=[],
     url='https://github.com/petebachant/Indeedy.git',
     license='LICENSE',
     description='Module for automating Indeed.com job searches.',
     long_description=open('README.md').read(),
-    install_requires=[]
 )
