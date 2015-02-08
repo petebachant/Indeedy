@@ -3,37 +3,19 @@ Indeedy
 
 Indeedy is a Python utility for automated job searches on Indeed.com
 
-Installation
-============
+## Installation
+
 From a command line, run
     
     python setup.py install
     
 
-Usage
-=====
-See the bottom of the module or the included [IPython notebook](http://nbviewer.ipython.org/github/petebachant/Indeedy/blob/master/notebook.ipynb?create=1)
-(`notebook.ipynb`) for an example.
-=======
-Indeedy
-=======
+## Usage
 
-Indeedy is a Python utility for automated job searches on Indeed.com
-
-Installation
-------------
-From a command line, run
-    
-    python setup.py install
-    
-
-Usage
------
 See the bottom of the module or the included [IPython notebook](http://nbviewer.ipython.org/github/petebachant/Indeedy/blob/master/notebook.ipynb?create=1)
 (`notebook.ipynb`) for an example.
 
-License
--------
+## License
 
 Indeedy Copyright (c) 2013-2014 Peter Bachant
 
